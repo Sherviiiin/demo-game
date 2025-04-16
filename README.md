@@ -1,3 +1,3 @@
-Color game
+# Color game
 
 choose the blinking color
